@@ -1,0 +1,35 @@
+.SidBar__Box{
+    margin: 5px -20px;
+    padding: 5px;
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.127);
+    width: 110%;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.SidBar__img{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50%;
+}
+.SidBar__nameCoin{
+    font-size: 12px;
+    font-weight: bold;
+}
+.SidBar__informations{
+    height: 50px;
+    margin-top: -10px;
+    text-align: center;
+    padding: 10px;
+}
+.SidBar__Price{
+    font-size: 12px;
+    font-weight: bold;
+}
+.SidBar__price--changes{
+    font-size: 12px;
+    font-weight: bold;
+}

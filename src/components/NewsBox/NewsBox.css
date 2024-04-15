@@ -1,0 +1,11 @@
+.Card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.news-author{
+    width: 100%;
+}
+.news-title{
+    width: 100%;
+}

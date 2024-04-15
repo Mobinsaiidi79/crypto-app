@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    margin: 0 20px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    transition: all 400ms ease;
+    color: #fff;
+    overflow: hidden;
+    position: relative;
+}
+a:hover{
+    color: black;
+}

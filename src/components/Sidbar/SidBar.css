@@ -1,0 +1,18 @@
+.Sidbar{
+    width: 250px;
+    height: 80vh;
+    position: static;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.127);
+}
+.Sidbar__title{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Sidbar__Boxes{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+   overflow-y:  scroll;
+}
